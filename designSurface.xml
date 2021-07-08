@@ -2,6 +2,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Vanessa/AndroidStudioProjects/Flashcards/app/src/main/res/layout/activity_add_card.xml" value="0.13229166666666667" />
+        <entry key="..\:/Users/Vanessa/AndroidStudioProjects/Flashcards/app/src/main/res/layout/activity_edit_current_card.xml" value="0.13229166666666667" />
+        <entry key="..\:/Users/Vanessa/AndroidStudioProjects/Flashcards/app/src/main/res/layout/activity_main.xml" value="0.13229166666666667" />
         <entry key="..\:/Users/Vanessa/Desktop/UCI/2020-21/CS122B/fabflix-mobile/app/src/main/res/layout/singlemovie.xml" value="0.1" />
         <entry key="..\:/Users/Vanessa/Desktop/UCI/CS122B/examples/cs122b-spring21-project4-android-example/app/src/main/res/layout/listview.xml" value="0.24427083333333333" />
         <entry key="..\:/Users/Vanessa/Desktop/UCI/CS122B/examples/cs122b-spring21-project4-android-example/app/src/main/res/layout/login.xml" value="0.24427083333333333" />
